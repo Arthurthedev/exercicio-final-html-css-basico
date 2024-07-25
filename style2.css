@@ -1,0 +1,24 @@
+html {
+    background-color: #FFB6C1;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.link-foto-gatinho {
+    text-decoration: none;
+    color: black;
+}
+
+.lista-camilla {
+    font-size: 28px;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.itens-lista-camilla {
+    font-size: 20px;
+    text-align: justify;
+}

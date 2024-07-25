@@ -1,0 +1,47 @@
+body {
+    background-color: #f5e6d1;
+}
+
+
+.Texto-principal {
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+.Texto-secundario,
+.Texto-sobre-readme {
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.imagem-github {
+    text-align: center;
+}
+
+.link-github {
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.segredo {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: solid 2px grey;
+}
+
+.tabela-de-jogos {
+    margin-bottom: 50px;
+}
+
+.mensagem-final {
+    text-align: center;
+    font-size: 25px;
+}
